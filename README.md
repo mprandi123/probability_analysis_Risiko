@@ -8,3 +8,4 @@ Example:
 - result: 3 attacking dice vs 2 defending dice
 
 Any hints will be greatly appreciated :)
+Enjoy.
