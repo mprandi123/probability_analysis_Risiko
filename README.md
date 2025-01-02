@@ -1,11 +1,10 @@
-I want to calculate the probability of winning a territory in relation to how many armies present in the duel.
+__Goal__
+This notebook calculates the probability of conquering a territory in Risk, focusing on how many dice are rolled based on the available armies. By rule, the attacker always keeps one army in reserve, so the number of attacking dice is one less than the total armies in the attacking territory (up to 3 dice). The defender can roll up to 2 dice depending on the defending armies.
 
-__I specify that the number of attackers corresponds precisely to the number of dice that will be rolled and not to the precise number of armies in the territory of the attacker since we know that the attacker will always count one less army.__
+_Example_
 
-Example:
-- number of armies in the attacking territory = 4
-- number of armies in the territory to be conquered = 2
-- result: 3 attacking dice vs 2 defending dice
+Attacking territory has 4 armies → Attacker can roll 3 dice
+Defending territory has 2 armies → Defender can roll 2 dice
 
 Any hints will be greatly appreciated :)
 Enjoy.
