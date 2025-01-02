@@ -4,8 +4,8 @@ This notebook calculates the probability of conquering a territory in Risk, focu
 
 _Example_
 
-Attacking territory has 4 armies → Attacker can roll 3 dice
-Defending territory has 2 armies → Defender can roll 2 dice
+- Attacking territory has 4 armies → Attacker can roll 3 dice
+- Defending territory has 2 armies → Defender can roll 2 dice
 
 Any hints will be greatly appreciated :)
 Enjoy.
